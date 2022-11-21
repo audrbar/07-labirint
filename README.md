@@ -7,7 +7,7 @@
 # 07-labirint
 _Website design project_
 <br>
-![Alt text](./images/labirint1.png)
+![Alt text](./image/labirint.png)
 <br>
 ## 🌟 About
 
@@ -15,7 +15,7 @@ This project is for educational porpuses only, HTML5 and CSS testing. Pull reque
 
 Site published at: https://audrbar.github.io/09-happy-weekend/
 
-Design: [HAPPY WEEKEND](./images/labirint.png)
+Design: [HAPPY WEEKEND](./image/labirint.png)
 
 ## 🎯 Project features/goals
 
