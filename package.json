@@ -1,0 +1,27 @@
+{
+  "name": "07-labirint",
+  "version": "1.0.0",
+  "description": "labirint",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=4107",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/audrbar/07-labirint.git"
+  },
+  "keywords": [
+    "html",
+    "labirint"
+  ],
+  "author": "audrbar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/audrbar/07-labirint/issues"
+  },
+  "homepage": "https://github.com/audrbar/07-labirint#readme",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
