@@ -7,7 +7,7 @@
 # 07-labirint
 _Website design project_
 <br>
-![Alt text](./image/labirint1.png)
+![Alt text](./image/labirint.png)
 <br>
 ## 🌟 About
 
