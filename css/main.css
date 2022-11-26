@@ -3,7 +3,7 @@
 }
 body {
     background-image: url(/image/forest.png);
-    background-repeat:repeat-y;
+    background-repeat:repeat;
 }
 main {
     display: inline-block;
