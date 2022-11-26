@@ -1,0 +1,58 @@
+:root {
+    --main-color: rgb(0, 86, 0);
+}
+body {
+    background-image: url(/image/forest.png);
+    background-repeat:repeat;
+}
+main {
+    display: inline-block;
+    width: 90%;
+    margin:5%;
+    background-color: white;
+}
+.header {
+    font-size: 28px;
+    display: block;
+    float:right;
+    padding: 18px;
+    color: gray;
+    text-decoration: none;
+}
+img {
+    display: inline-block;
+    margin: 110px;
+    padding: 10px;
+    width: 20%;
+}
+.right-column {
+    display: inline-block;
+    width: 40%;
+    float: right;
+    margin: 25px;
+    margin-top: 60px;
+}
+h1 {
+    font-size: 126px;
+    font-family: Arial;
+    color: var(--main-color);
+    margin-bottom: 10px;
+}
+h2 {
+    color: var(--main-color);
+    font-family: Arial;
+    font-size: medium;
+}
+p {
+    color:darkgray;
+    font-size: smaller;
+    font-family: Arial;
+    margin-bottom: 30px;
+}
+.link {
+    background-color:rgb(0, 199, 0);
+    font-family: Arial;
+    color: white;
+    padding: 8px 10px;
+    text-decoration: none;
+}
